@@ -6,7 +6,7 @@ function Inventario() {
   const [medicamentos, setMedicamentos] = useState([]);
 
   const cargarMedicamentos = () => {
-    fetch("http://localhost:3000/inventario.json")
+    fetch("http://localhost:3000/data/inventario.json")
       .then((respuesta) => respuesta.json())
       .then((data) => setMedicamentos(data));
   };
