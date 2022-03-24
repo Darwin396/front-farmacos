@@ -1,0 +1,82 @@
+[
+    {   
+        "id": 1,
+        "nombre":"Carbamazepina",
+        "presentacion":"10mg/1u",
+        "nombre_proveedor":"SANOFI AVENTIS",
+        "precio":19.222,
+        "unidades":0,
+        "cantidad":"10mg/1u",
+        "tipo":"Solido",
+        "administracion":"Oral",
+        "nombre_fabricante":"JANSSEN",
+        "pais_proveedor": "Colombia",
+        "telefono_proveedor":6019271200,
+        "nit_proveedor":8901015534
+    },
+    {   
+        "id": 3,
+        "nombre":"Carbetocina",
+        "presentacion":"150mg/1u",
+        "nombre_proveedor":"SANOFI AVENTIS",
+        "precio":52.643,
+        "unidades":0,
+        "cantidad":"10mg/1u",
+        "tipo":"Solido",
+        "administracion":"Oral",
+        "nombre_fabricante":"JANSSEN",
+        "pais_proveedor": "Colombia",
+        "telefono_proveedor":6019271200,
+        "nit_proveedor":8901015534 
+        
+
+    },
+    {   
+        "id": 5,
+        "nombre":"Cefuroxime",
+        "presentacion":"150mg/1u",
+        "nombre_proveedor":"MONTE VERDE",
+        "precio":34.170,
+        "unidades":0,
+        "cantidad":"10mg/1u",
+        "tipo":"Solido",
+        "administracion":"Oral",
+        "nombre_fabricante":"JANSSEN",
+        "pais_proveedor": "Colombia",
+        "telefono_proveedor":6019271200,
+        "nit_proveedor":8901015534    
+
+    },
+    {   
+        "id": 7,
+        "nombre":"Macitentan",
+        "presentacion":"5mg/1u",
+        "nombre_proveedor":"PROCAPS",
+        "precio":14.299,
+        "unidades":0,
+        "cantidad":"10mg/1u",
+        "tipo":"Solido",
+        "administracion":"Oral",
+        "nombre_fabricante":"BAYER",
+        "pais_proveedor": "Colombia",
+        "telefono_proveedor":6014234000,
+        "nit_proveedor":8600019428    
+
+    },
+    {   
+        "id": 9,
+        "nombre":"Desmopresina",
+        "presentacion":"700mg/1u",
+        "nombre_proveedor":"GRUNENTHAL",
+        "precio":35.735,
+        "unidades":0,
+        "cantidad":"10mg/1u",
+        "tipo":"Solido",
+        "administracion":"Oral",
+        "nombre_fabricante":"JANSSEN",
+        "pais_proveedor": "Colombia",
+        "telefono_proveedor":6019271200,
+        "nit_proveedor":8901015534  
+
+    }
+]

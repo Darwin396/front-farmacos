@@ -1,0 +1,122 @@
+[
+    {
+        "nombre":"GENFAR S.A",
+        "pais": "Colombia",
+        "telefono":6016214400,
+        "nit":8170016441
+    },
+    {
+        "nombre":"LAFRANCOL",
+        "pais": "Colombia",
+        "telefono":6024877700,
+        "nit":8903014638
+    },
+    {
+        "nombre":"XINETIX PHARMA",
+        "pais": "Colombia",
+        "telefono":6012152070,
+        "nit":9007107206   
+    },
+    {
+        "nombre":"MERCK SHARP DOME",
+        "pais": "Colombia",
+        "telefono":6012152070,
+        "nit":9007107206
+    },
+    {
+        "nombre":"MK",
+        "pais": "Colombia",
+        "telefono":6028825555,
+        "nit":8600558224
+    },
+    {
+        "nombre":"ASTRAZENECA",
+        "pais": "Colombia",
+        "telefono":6013257200,
+        "nit":8300395681
+    },
+    {
+        "nombre":"ASPEN",
+        "pais": "Colombia",
+        "telefono":6017567759,
+        "nit":9006569606
+    },
+    {
+        "nombre":"FRESENIUS",
+        "pais": "Colombia",
+        "telefono":6012941400,
+        "nit":9002970095
+    },
+    {
+        "nombre":"BLAU",
+        "pais": "Colombia",
+        "telefono":6017420010,
+        "nit":8300728171
+    },
+    {
+        "nombre":"LES LABORATOIRES SERVIER",
+        "pais": "Colombia",
+        "telefono":6017429431,
+        "nit":9007107206
+    },
+    {
+        "nombre":"SANOFI AVENTIS",
+        "pais": "Colombia",
+        "telefono":6015936000,
+        "nit":8300103370
+    },
+    {
+        "nombre":"MONTE VERDE",
+        "pais": "Colombia",
+        "telefono":3116099434,
+        "nit":9003839255
+    },
+    {
+        "nombre":"PROCAPS",
+        "pais": "Colombia",
+        "telefono":6053719274,
+        "nit":8901065275
+    },
+    {
+        "nombre":"GRUNENTHAL",
+        "pais": "Colombia",
+        "telefono":5716185550,
+        "nit":8300761251
+    },
+    {
+        "nombre":"PINT PHARMA",
+        "pais": "Colombia",
+        "telefono":6016918688,
+        "nit":8301238069
+    },
+    {
+        "nombre":"FERRING",
+        "pais": "Colombia",
+        "telefono":3124625477,
+        "nit":9011497766
+    },
+    {
+        "nombre":"JANSSEN",
+        "pais": "Colombia",
+        "telefono":6019271200,
+        "nit":8901015534
+    },
+    {
+        "nombre":"PFIZER",
+        "pais": "Colombia",
+        "telefono":6016002300,
+        "nit":8600395611 
+    },
+    {
+        "nombre":"BAYER",
+        "pais": "Colombia",
+        "telefono":6014234000,
+        "nit":8600019428
+    },
+    {
+        "nombre":"NOVO NORDISK",
+        "pais": "Colombia",
+        "telefono":6013149990,
+        "nit":9005578753
+    }
+]
