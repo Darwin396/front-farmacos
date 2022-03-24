@@ -1,0 +1,31 @@
+#peliculas {
+    padding: 15px;
+}
+  
+#peliculas .agregar-pelicula {
+    margin-bottom: 20px;
+}
+  
+.grid-medicamentos {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 30px;
+}
+  
+@media screen and (max-width: 992px) {
+    .grid-medicamentos {
+      grid-template-columns: repeat(4, 1fr);
+    }
+}
+  
+@media screen and (max-width: 768px) {
+    .grid-medicamentos {
+      grid-template-columns: repeat(3, 1fr);
+    }
+}
+  
+@media screen and (max-width: 576px) {
+    .grid-medicamentos {
+      grid-template-columns: 1fr 1fr;
+    }
+}

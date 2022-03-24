@@ -1,0 +1,74 @@
+header {
+    background-color: #445E3B;
+    position: relative;
+}
+
+header .container {
+    padding: 15px 0;
+    background-color: #445E3B;
+    position: relative;
+    z-index: 1;
+}
+  
+/* Logo */
+.logo {
+    font-family: "Oswald", cursive;
+    font-weight: 700;
+    font-size: 32px;
+    padding: 5px 10px;
+    background-color: #445E3B;
+    border-radius: 5px;
+    color: #FCF7DE/*#729E64*/;
+    margin-left: 10px;
+    white-space: nowrap;
+}
+  
+/* Menú responsive */
+.btn-menu-responsive {
+    display: none;
+    margin-right: 10px;
+    font-size: 20px;
+}
+
+.menu-responsive {
+    display: none;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    transition: all 0.5s ease;
+}
+
+.menu-responsive.open {
+    bottom: -180px; /* ¿cómo hacer para que este valor no este quemado? */
+}
+
+.menu-responsive ul li {
+    border-top: 1px solid #000;
+}
+
+.menu-responsive ul li a {
+    display: block;
+    background-color: #445E3B;
+    border-radius: 0;
+    padding: 15px;
+}
+  
+.btn-login {
+    margin: 0 10px;
+    font-size: 20px;
+}
+  
+/* Menú mobile */
+@media screen and (max-width: 768px) {
+    header {
+      padding-bottom: 0;
+    }
+
+    .btn-menu-responsive {
+      display: block;
+    }
+
+    .menu-responsive {
+      display: block;
+    }
+}

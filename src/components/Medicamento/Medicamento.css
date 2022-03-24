@@ -1,0 +1,15 @@
+.medicamento {
+    background-color: #1a1a1a;
+}
+
+.medicamento img {
+    width: 100%;
+}
+
+.medicamento .info {
+    padding: 10px;
+}
+
+.medicamento .info h2 {
+    margin: 0;
+}

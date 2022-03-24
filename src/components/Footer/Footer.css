@@ -1,0 +1,11 @@
+footer {
+    background-color: #445E3B;
+    position: relative;
+}
+
+footer .container {
+    padding: 15px 0;
+    background-color: #445E3B;
+    position: relative;
+    z-index: 1;
+}
