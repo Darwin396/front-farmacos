@@ -1,0 +1,15 @@
+{
+    "id": 18,
+    "nombre":"BYETTA",
+    "presentacion":"0,6mg/2,4ml (0,25mg/1ml)",
+    "nombre_proveedor":"ASTRAZENECA",
+    "precio":2.900,
+    "unidades":1,
+    "cantidad":"10mg/1u",
+    "tipo":"Solido",
+    "administracion":"Oral",
+    "nombre_fabricante":"GENFAR S.A",
+    "pais_proveedor": "Colombia",
+    "telefono_proveedor":6016214400,
+    "nit_proveedor":8170016441             
+}

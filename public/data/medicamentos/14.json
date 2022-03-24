@@ -1,0 +1,15 @@
+{
+    "id": 14,
+    "nombre":"NORMOLIP",
+    "presentacion":"135 mg/u",
+    "nombre_proveedor":" SYNTHESIS",
+    "precio":0.509,
+    "unidades":80,
+    "cantidad":"10mg/1u",
+    "tipo":"Solido",
+    "administracion":"Oral",
+    "nombre_fabricante":"GENFAR S.A",
+    "pais_proveedor": "Colombia",
+    "telefono_proveedor":6016214400,
+    "nit_proveedor":8170016441                  
+}

@@ -1,0 +1,16 @@
+{   
+    "id": 7,
+    "nombre":"Macitentan",
+    "presentacion":"5mg/1u",
+    "nombre_proveedor":"PROCAPS",
+    "precio":14.299,
+    "unidades":0,
+    "cantidad":"10mg/1u",
+    "tipo":"Solido",
+    "administracion":"Oral",
+    "nombre_fabricante":"BAYER",
+    "pais_proveedor": "Colombia",
+    "telefono_proveedor":6014234000,
+    "nit_proveedor":8600019428    
+
+}

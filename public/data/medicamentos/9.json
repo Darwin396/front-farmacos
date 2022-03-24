@@ -1,0 +1,15 @@
+{   
+    "id": 9,
+    "nombre":"Desmopresina",
+    "presentacion":"700mg/1u",
+    "nombre_proveedor":"GRUNENTHAL",
+    "precio":35.735,
+    "unidades":0,
+    "cantidad":"10mg/1u",
+    "tipo":"Solido",
+    "administracion":"Oral",
+    "nombre_fabricante":"JANSSEN",
+    "pais_proveedor": "Colombia",
+    "telefono_proveedor":6019271200,
+    "nit_proveedor":8901015534  
+}

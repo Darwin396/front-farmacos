@@ -1,0 +1,15 @@
+{   
+    "id": 3,
+    "nombre":"Carbetocina",
+    "presentacion":"150mg/1u",
+    "nombre_proveedor":"SANOFI AVENTIS",
+    "precio":52.643,
+    "unidades":0,
+    "cantidad":"10mg/1u",
+    "tipo":"Solido",
+    "administracion":"Oral",
+    "nombre_fabricante":"JANSSEN",
+    "pais_proveedor": "Colombia",
+    "telefono_proveedor":6019271200,
+    "nit_proveedor":8901015534 
+}

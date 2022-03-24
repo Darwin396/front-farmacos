@@ -1,0 +1,15 @@
+{
+    "id": 20,
+    "nombre":"OVESTIN",
+    "presentacion":"0,5mg/1u",
+    "nombre_proveedor":"ASPEN",
+    "precio":0.041,
+    "unidades":15,
+    "cantidad":"10mg/1u",
+    "tipo":"Solido",
+    "administracion":"Oral",
+    "nombre_fabricante":"GENFAR S.A",
+    "pais_proveedor": "Colombia",
+    "telefono_proveedor":6016214400,
+    "nit_proveedor":8170016441             
+}

@@ -1,0 +1,16 @@
+{   
+    "id": 5,
+    "nombre":"Cefuroxime",
+    "presentacion":"150mg/1u",
+    "nombre_proveedor":"MONTE VERDE",
+    "precio":34.170,
+    "unidades":0,
+    "cantidad":"10mg/1u",
+    "tipo":"Solido",
+    "administracion":"Oral",
+    "nombre_fabricante":"JANSSEN",
+    "pais_proveedor": "Colombia",
+    "telefono_proveedor":6019271200,
+    "nit_proveedor":8901015534    
+
+}

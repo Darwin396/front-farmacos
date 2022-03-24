@@ -1,0 +1,15 @@
+{
+    "id": 2,
+    "nombre":"Acetaminofén",
+    "presentacion":"150 mg/5mg",
+    "nombre_proveedor":"GENFAR S.A.",
+    "precio":6.100,
+    "unidades":1,
+    "cantidad":"10mg/1u",
+    "tipo":"Solido",
+    "administracion":"Oral",
+    "nombre_fabricante":"GENFAR S.A",
+    "pais_proveedor": "Colombia",
+    "telefono_proveedor":6016214400,
+    "nit_proveedor":8170016441
+}

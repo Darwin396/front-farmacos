@@ -1,0 +1,15 @@
+{
+    "id": 10,
+    "nombre":"XETAM",
+    "presentacion":"10 mg/u",
+    "nombre_proveedor":"XINETIX PHARMA",
+    "precio":3.700,
+    "unidades":10,
+    "cantidad":"10mg/1u",
+    "tipo":"Solido",
+    "administracion":"Oral",
+    "nombre_fabricante":"GENFAR S.A",
+    "pais_proveedor": "Colombia",
+    "telefono_proveedor":6016214400,
+    "nit_proveedor":8170016441            
+}
