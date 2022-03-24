@@ -28,8 +28,6 @@
         "pais_proveedor": "Colombia",
         "telefono_proveedor":6019271200,
         "nit_proveedor":8901015534 
-        
-
     },
     {   
         "id": 5,
@@ -45,7 +43,6 @@
         "pais_proveedor": "Colombia",
         "telefono_proveedor":6019271200,
         "nit_proveedor":8901015534    
-
     },
     {   
         "id": 7,
@@ -60,8 +57,7 @@
         "nombre_fabricante":"BAYER",
         "pais_proveedor": "Colombia",
         "telefono_proveedor":6014234000,
-        "nit_proveedor":8600019428    
-
+        "nit_proveedor":8600019428
     },
     {   
         "id": 9,
@@ -76,8 +72,7 @@
         "nombre_fabricante":"JANSSEN",
         "pais_proveedor": "Colombia",
         "telefono_proveedor":6019271200,
-        "nit_proveedor":8901015534  
-
+        "nit_proveedor":8901015534
     },
     {
         "id": 2,
