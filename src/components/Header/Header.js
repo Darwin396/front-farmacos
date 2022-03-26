@@ -15,9 +15,10 @@ function Header() {
     <header>
       <div className="container flex justify-space-between align-center">
         <Link to="/" className="logo">
+          <i class="fa-solid fa-pills" style={{color: '#192e5a'}}></i>
           GestionFARMA
         </Link>
-        <div className="flex flex.align-cente">
+        <div className="flex flex.align-center">
           <Navigation></Navigation>
           <button className="btn btn-menu-responsive" onClick={handleOpenMenu}>
             <i className="fa-solid fa-bars"></i>

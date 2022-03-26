@@ -12,12 +12,12 @@ body {
   font-weight: 400;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  color: #FCF7DE;
-  background-color: #4b6941;
+  color: #192e5a;
+  background-color: #f8f8f8;
 }
 
 a {
-  color: #FCF7DE;
+  color: #192e5a;
   text-decoration: none;
 }
 
@@ -29,30 +29,53 @@ a {
 
 .btn {
   font-size: 16px;
-  color: #FCF7DE;
+  color: #192e5a;
   background-color: transparent;
   border: none;
   cursor: pointer;
 }
+
 .btn.btn-dark {
-  border: 1px solid #FCF7DE;
+  background-color: #418fde;
+  border: 1px solid #418fde;
   padding: 10px;
   border-radius: 5px;
+  color: #ffffff
 }
+
 .btn.btn-dark:hover {
-  background-color: #729E64;
+  background-color: #2774c0;
 }
 
 /* FLEXBOX */
 .flex {
   display: flex;
 }
+
 .flex.justify-space-between {
   justify-content: space-between;
 }
+
+.flex.justify-space-around {
+  justify-content: space-around;
+}
+
+.flex.justify-center {
+  justify-content: center;
+}
+
+.flex.justify-space-evenly {
+  justify-content: space-evenly;
+}
+
 .flex.align-center {
   align-items: center;
 }
+
 .flex.direction-column {
   flex-direction: column;
+}
+
+.flex.direction-row {
+  flex-direction: row;
 }

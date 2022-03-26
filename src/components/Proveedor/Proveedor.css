@@ -1,24 +1,24 @@
-.medicamento {
+.proveedor {
     background-color: #ffffff;
     color: #5c5c5c;
 }
 
-.medicamento img {
+.proveedor img {
     width: 100%;
 }
 
-.medicamento .info {
+.proveedor .info {
     padding: 10px;
 }
 
-.medicamento .info.principal {
+.proveedor .info.principal {
     color: #192e5a;
 }
 
-.medicamento .info h2 {
+.proveedor .info h2 {
     margin: 0;
 }
 
-.medicamento .info h6 {
+.proveedor .info h6 {
     margin: 0;
 }

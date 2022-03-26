@@ -1,5 +1,5 @@
 .menu {
-    background-color: #445E3B;
+    background-color: #418fde;
 }
   
 /* Lista */
@@ -9,10 +9,13 @@ ul.menu {
 }
 
 ul.menu li {
+    background-color: #418fde;
     list-style: none;
 }
 
 ul.menu li a {
+    background-color: #418fde;
+    color: #ffffff;
     font-weight: bold;
     font-size: 20px;
     padding: 10px 15px;
@@ -20,12 +23,13 @@ ul.menu li a {
 }
 
 ul.menu li a:hover {
-    background-color: #729E64;
+    background-color: #192e5a;
 }
   
 /* Menú mobile */
 @media screen and (max-width: 768px) {
     .menu {
-      flex-direction: column;
+        background-color: #418fde;
+        flex-direction: column;
     }
 }

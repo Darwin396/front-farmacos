@@ -1,11 +1,13 @@
 footer {
-    background-color: #445E3B;
+    background-color: #192e5a;
+    color: #6c7793;
     position: relative;
 }
 
 footer .container {
+    margin:20px;
     padding: 15px 0;
-    background-color: #445E3B;
-    position: relative;
+    background-color: #192e5a;
+    justify-content: center;
     z-index: 1;
 }

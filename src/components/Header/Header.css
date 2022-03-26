@@ -1,11 +1,11 @@
 header {
-    background-color: #445E3B;
+    background-color: #192e5a;
     position: relative;
 }
 
 header .container {
     padding: 15px 0;
-    background-color: #445E3B;
+    background-color: #418fde;
     position: relative;
     z-index: 1;
 }
@@ -16,9 +16,9 @@ header .container {
     font-weight: 500;
     font-size: 32px;
     padding: 5px 10px;
-    background-color: #445E3B;
+    background-color: #418fde;
     border-radius: 5px;
-    color: #FCF7DE/*#729E64*/;
+    color: #ffffff/*#729E64*/;
     margin-left: 10px;
     white-space: nowrap;
 }
@@ -39,7 +39,7 @@ header .container {
 }
 
 .menu-responsive.open {
-    bottom: -180px; /* ¿cómo hacer para que este valor no este quemado? */
+    bottom: -200px; /* ¿cómo hacer para que este valor no este quemado? */
 }
 
 .menu-responsive ul li {
@@ -48,7 +48,7 @@ header .container {
 
 .menu-responsive ul li a {
     display: block;
-    background-color: #445E3B;
+    background-color: #ffffff;
     border-radius: 0;
     padding: 15px;
 }

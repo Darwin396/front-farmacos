@@ -1,0 +1,53 @@
+/* medicamento */
+#medicamento {
+  flex-direction: column;
+}
+
+.medicamento.container {
+  display: flex;
+  flex-direction: row;  
+}
+
+#medicamento .label {
+  font-weight: bold;
+}
+
+.info-medicamento{
+  display: flex;
+  flex-direction: column;
+}
+
+.modificar-unidades {
+  flex-direction: row;
+  margin: 30px 20px;
+  width: 40%;
+  height: 40px;
+}
+
+.cantidad {
+  width: 40px;
+  height: 30px;
+}
+
+button{
+  background-color: #192e5a;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  width: auto;
+  height: 30px;
+}
+  
+@media screen and (max-width: 768px) {
+
+  #medicamento .info {
+    padding: 0 10px;
+  }
+
+  .modificar-unidades {
+    flex-direction: column;
+    align-content: space-around;
+    height:150px;
+    width: 25%;
+  }
+}
