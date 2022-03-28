@@ -21,14 +21,14 @@ function DetalleProveedor() {
 
   return (
     <article id="proveedor">
-      <div className="proveedor container flex direction-row justify-space-around">
+      <div className="proveedor container flex direction-column justify-space-around">
         <div className="encabezado-proveedor">
-            <h1 className="mb-3">{proveedor.nombre}</h1>
-            <h6 style={{color: '#6c7793'}}>NIT.{proveedor.nit}</h6>
+            <h1 className="mb-3 item-proveedor">{proveedor.nombre}</h1>
+            <h6 className="item-proveedor" style={{color: '#6c7793'}}>NIT.{proveedor.nit}</h6>
         </div>
         <div className="info-proveedor">
-          <p>País: {proveedor.pais}</p>
-          <p>Contacto: {proveedor.telefono}</p>
+          <p className="item-proveedor">País: {proveedor.pais}</p>
+          <p className="item-proveedor">Contacto: {proveedor.telefono}</p>
         </div>
       </div>
     </article>

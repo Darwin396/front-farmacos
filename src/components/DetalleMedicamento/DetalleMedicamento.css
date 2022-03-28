@@ -4,8 +4,13 @@
 }
 
 .medicamento.container {
+  padding: 15px;
   display: flex;
   flex-direction: row;  
+}
+
+.item-medicamento {
+  margin: 3px;
 }
 
 #medicamento .label {
@@ -38,16 +43,16 @@ button{
   height: 30px;
 }
   
-@media screen and (max-width: 768px) {
-
-  #medicamento .info {
-    padding: 0 10px;
-  }
-
+@media screen and (max-width: 576px) {
   .modificar-unidades {
     flex-direction: column;
     align-content: space-around;
     height:150px;
     width: 25%;
+  }
+
+  .medicamento.container {
+    display: flex;
+    flex-direction: column;  
   }
 }

@@ -10,8 +10,10 @@ function Proveedor({ data }) {
   return (
     <div className="proveedor">
       <div className="info">
-        <h2 className="info principal">{data.nombre}</h2>
-        <h5>NIT.{data.nit}</h5>
+        <h2 className="info principal item-proveedor">{data.nombre}</h2>
+        <h5 className="item-proveedor">NIT.{data.nit}</h5> 
+      </div>
+      <div className="ver-mas">
         <Link to={`/proveedor/${data.nit}`}>ver más</Link>
       </div>
     </div>

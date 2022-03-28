@@ -11,6 +11,10 @@
     padding: 10px;
 }
 
+.item-medicamento {
+    margin: 3px;
+}
+
 .medicamento .info.principal {
     color: #192e5a;
 }
@@ -21,4 +25,10 @@
 
 .medicamento .info h6 {
     margin: 0;
+}
+
+.ver-mas {
+    display: flex;
+    justify-content: end;
+    margin: 15px 25px;
 }

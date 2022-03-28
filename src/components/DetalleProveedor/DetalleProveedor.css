@@ -1,0 +1,57 @@
+/* proveedor */
+#proveedor {
+    flex-direction: column;
+  }
+  
+  .proveedor.container {
+    display: flex;
+    padding: 20px 30px;  
+  }
+
+  .item-proveedor {
+    margin: 2px;
+  }
+  
+  #proveedor .label {
+    font-weight: bold;
+  }
+  
+  .info-proveedor{
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .modificar-unidades {
+    flex-direction: row;
+    margin: 30px 20px;
+    width: 40%;
+    height: 40px;
+  }
+  
+  .cantidad {
+    width: 40px;
+    height: 30px;
+  }
+  
+  button{
+    background-color: #192e5a;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    width: auto;
+    height: 30px;
+  }
+    
+  @media screen and (max-width: 768px) {
+  
+    #proveedor .info {
+      padding: 0 10px;
+    }
+  
+    .modificar-unidades {
+      flex-direction: column;
+      align-content: space-around;
+      height:150px;
+      width: 25%;
+    }
+  }

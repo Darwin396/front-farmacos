@@ -22,17 +22,15 @@ function DetalleMedicamento() {
   return (
     <article id="medicamento">
       <div className="medicamento container flex direction-row justify-space-around">
-        <div className="encabezado-medicamento">
-          <h1 className="mb-3">{medicamento.nombre}</h1>
-          <h6 style={{color: '#6c7793'}}>{medicamento.nombre_proveedor}</h6>
-          <h3 style={{color: '#418fde'}}>{moneda(medicamento.precio)}</h3>
-          <h4>Unidades disponibles: {medicamento.unidades}</h4>
-        </div>
         <div className="info-medicamento">
-          <p>Tipo: {medicamento.tipo}</p>
-          <p>Vía de administración: {medicamento.administracion}</p>
-          <p>Presentación: {medicamento.presentacion}</p>
-          <p>Fabricante: {medicamento.nombre_fabricante}</p>
+          <h1 className="mb-3">{medicamento.nombre}</h1>
+          <h6 className="item-medicamento" style={{color: '#6c7793'}}>{medicamento.nombre_proveedor}</h6>
+          <h3 className="item-medicamento" style={{color: '#418fde'}}>{moneda(medicamento.precio)}</h3>
+          <h4>Unidades disponibles: {medicamento.unidades}</h4>
+          <p className="item-medicamento">Tipo: {medicamento.tipo}</p>
+          <p className="item-medicamento">Vía de administración: {medicamento.administracion}</p>
+          <p className="item-medicamento">Presentación: {medicamento.presentacion}</p>
+          <p className="item-medicamento">Fabricante: {medicamento.nombre_fabricante}</p>
         </div>
         <div className="flex justify-space-around modificar-unidades">
           <label>Unidades</label>
